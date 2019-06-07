@@ -27,3 +27,11 @@ Until recently, gridded population surveys were generated with adhoc tools and m
 
 The [technical documentation](https://github.com/Flowminder/GridSample2.0/blob/master/GridSample2.0%20Algorithm%20Technical%20Manual.pdf) provides detailed explanation of GridSample tool. Please refer to the [README](https://github.com/Flowminder/GridSample2.0/blob/master/GridSample/README.md) documentation provided which explains how to set up GridSample2.0.
 
+## gridsample
+
+The **gridsample** R package is available on [CRAN](https://cran.r-project.org/web/packages/gridsample/index.html) and is the predecesor to GridSample2.0. GridSample2.0 supersedes **gridsample** many ways, as it has more functionality and runs more efficiently, and therefore makes it easier to run more advanced, larger-scale surveys. However, the GridSample R package is easier to install and run, and therefore users may wish to consider this for offline gridded population sampling.
+
+## gridEZ
+
+This code utilises the *gridEZ* algorithm developed by Claire Dooley at WorldPop and is available at https://github.com/cadooley/gridEZ. The tool provides an automated tool for creating gridded Enumeration Zones (EZs) based on population raster for creating a survey sampling frame.
+
