@@ -1,0 +1,17 @@
+version: '2.0'
+
+
+services:
+
+  grid_sample_standalone:
+    build: ./SampleBuilder/
+    image: grid_sample/grid_sample_standalone
+    volumes:
+      # test data source files location
+      - /home/icw1m08/GridSample_standalone/GridSample/SampleBuilder/test_files:/test_files
+      # where to put the results
+      - /data/docker/GridSample_standalone/results:/results
+      # src code for python app
+      - /home/icw1m08/GridSample_standalone/GridSample/SampleBuilder/src:/src
+    #restart:
+    #   always
