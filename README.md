@@ -1,4 +1,4 @@
-# GridSample2.0 <a href='https://flowminder.org/'><img src='https://res.cloudinary.com/devex/image/fetch/c_fit,h_110,w_250/https://neo-assets.s3.amazonaws.com/assets/0128/1552/featurebox-flowminder.jpg' align="right" height="139" /></a>
+# GridSample2.0 <a href='https://flowminder.org/'><img src='flowminder.png' align="right" width="200" /></a>
 
 [![License: GPL v3.0](https://img.shields.io/github/license/Flowminder/GridSample2.0.svg?style=flat-square)](https://www.gnu.org/licenses/quick-guide-gplv3.html)
 
@@ -8,7 +8,9 @@ GridSample2.0 is the sample selection algorithm behind the GridSample.org websit
 
 > Some work will be needed to define the parameters needed to run the algorithm. If you have difficulty determining the parameters for your survey design, please refer to the click-and-point interface and guidance at [GridSample.org](http://gridsample.org/)
 
+<p align="center">
 <img src="GridSampleWebsite.png" width="70%" style="display: block; margin: auto;" />
+</p>
 
 ## Why use GridSample2.0?
 
@@ -23,6 +25,5 @@ Until recently, gridded population surveys were generated with adhoc tools and m
 
 ## How to set up GridSample2.0?
 
-Please refer to the [README](https://github.com/Flowminder/GridSample2.0/blob/master/GridSample/README.md) documentation provided which explains how to set up GridSample2.0.
+The [technical documentation](GridSample2.0 Algorithm Technical Manual.pdf) provides detailed explanation of GridSample tool. Please refer to the [README](https://github.com/Flowminder/GridSample2.0/blob/master/GridSample/README.md) documentation provided which explains how to set up GridSample2.0.
 
-The [technical documentation](GridSample2.0 Algorithm Technical Manual.pdf) provides detailed explanation of methods used.
