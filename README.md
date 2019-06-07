@@ -25,5 +25,5 @@ Until recently, gridded population surveys were generated with adhoc tools and m
 
 ## How to set up GridSample2.0?
 
-The [technical documentation](GridSample2.0 Algorithm Technical Manual.pdf) provides detailed explanation of GridSample tool. Please refer to the [README](https://github.com/Flowminder/GridSample2.0/blob/master/GridSample/README.md) documentation provided which explains how to set up GridSample2.0.
+The [technical documentation](https://github.com/Flowminder/GridSample2.0/blob/master/GridSample2.0%20Algorithm%20Technical%20Manual.pdf) provides detailed explanation of GridSample tool. Please refer to the [README](https://github.com/Flowminder/GridSample2.0/blob/master/GridSample/README.md) documentation provided which explains how to set up GridSample2.0.
 
