@@ -2,7 +2,7 @@
 Select household survey clusters from gridded population data
 
 
-Why use GridSample2.0?
+## Why use GridSample2.0?
 
 In countries where census data are outdated, inaccurate or too geographically course to be used effectively as a survey sample frame, gridded population data are being used to select representative, complex household surveys.
  
@@ -14,12 +14,12 @@ Until recently, gridded population surveys were generated with adhoc tools and m
 GridSample.org is created by Flowminder, a non-profit organisation whose mission is to improve public health and wellbeing in LMICs using data from mobile operators, satellites, and geo-located household surveys.
 
 
-What is GridSample2.0?
+## What is GridSample2.0?
 
 GridSample2.0 is the sample selection algorithm behind the GridSample.org website. Some work will be needed to define the parameters needed to run the algorithm. If you have difficulty determining the parameters for your survey design, please refer to the click-and-point interface and guidance at GridSample.org
 
 
-How to set up GridSample2.0?
+## How to set up GridSample2.0?
 
 Please refer to the Read Me documentation with GridSample2.0. The examples require a WorldPop dataset and GHS-SMOD settlement types which are available at:
 WorldPop: https://www.worldpop.org/geodata/summary?id=85
